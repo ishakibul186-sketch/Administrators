@@ -1,0 +1,5 @@
+{
+  "name": "Administator",
+  "description": "A responsive administrator dashboard to manage user access and view database records from Firebase.",
+  "requestFramePermissions": []
+}
